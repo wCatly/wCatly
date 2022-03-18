@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wcatly&label=Profile%20views&color=0e75b6&style=flat" alt="wcatly" /> </p>
 
 - 🔭 I’m currently working on [L9BGX](https://github.com/L9BGX)
+- 🟢 I publicly share the basic c# projects I've done [CSharpEnjoy](https://github.com/L9CS)
 - 🔴 League of Legends junk files cleaner [LeagueCleaner](https://github.com/wCatly/LeagueCleaner)
 - 🟣 League of Legends [wcat-utility](https://github.com/wCatly/wcat-utility)
 - 🧁 Website [wcat.wtf](https://wcat.wtf/)
