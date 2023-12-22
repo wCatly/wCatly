@@ -8,7 +8,7 @@ coding since 13
 
 * 🌍  I'm based in Ottawa
 * 🖥️  See my portfolio at [wcat.wtf](http://wcat.wtf/)
-* ✉️  You can contact me at [florianbejte@gmail.com](mailto:florianbejte@icloud.com)
+* ✉️  You can contact me at [florianbejte@icloud.com](mailto:florianbejte@icloud.com)
 
 ### Skills
 
