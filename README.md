@@ -6,7 +6,7 @@ Software Developer
 
 coding since 13
 
-* 🌍  I'm based in Ottawa
+* 🌍  I'm based in Vilnius, Lithuania
 * 🖥️  See my portfolio at [wcat.wtf](http://wcat.wtf/)
 
 ### Skills
